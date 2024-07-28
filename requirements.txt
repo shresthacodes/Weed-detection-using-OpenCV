@@ -1,0 +1,6 @@
+opencv-python
+json
+numpy
+sklearn.neighbors
+streamlit 
+
