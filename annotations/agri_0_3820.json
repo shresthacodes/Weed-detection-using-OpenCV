@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 14804814,
+            "classId": 21387,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:27:54.652Z",
+            "updatedAt": "2023-07-13T15:27:54.652Z",
+            "tags": [],
+            "classTitle": "weed",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        88
+                    ],
+                    [
+                        492,
+                        375
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804813,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:27:54.652Z",
+            "updatedAt": "2023-07-13T15:27:54.652Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        388
+                    ],
+                    [
+                        448,
+                        510
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

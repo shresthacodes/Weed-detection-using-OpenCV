@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 14805032,
+            "classId": 21387,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:32:24.374Z",
+            "updatedAt": "2023-07-13T15:32:24.374Z",
+            "tags": [],
+            "classTitle": "weed",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        166
+                    ],
+                    [
+                        476,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14805031,
+            "classId": 21387,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:32:24.374Z",
+            "updatedAt": "2023-07-13T15:32:24.374Z",
+            "tags": [],
+            "classTitle": "weed",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        93
+                    ],
+                    [
+                        166,
+                        360
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14805030,
+            "classId": 21387,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:32:24.374Z",
+            "updatedAt": "2023-07-13T15:32:24.374Z",
+            "tags": [],
+            "classTitle": "weed",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        416
+                    ],
+                    [
+                        222,
+                        478
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

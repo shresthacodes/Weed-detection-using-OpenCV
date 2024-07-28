@@ -1,0 +1,394 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 14804557,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.004Z",
+            "updatedAt": "2023-07-13T15:23:23.004Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        298,
+                        316
+                    ],
+                    [
+                        346,
+                        359
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804556,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.004Z",
+            "updatedAt": "2023-07-13T15:23:23.004Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        390,
+                        295
+                    ],
+                    [
+                        427,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804555,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.004Z",
+            "updatedAt": "2023-07-13T15:23:23.004Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        140,
+                        341
+                    ],
+                    [
+                        174,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804554,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.004Z",
+            "updatedAt": "2023-07-13T15:23:23.004Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        409
+                    ],
+                    [
+                        355,
+                        489
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804553,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.003Z",
+            "updatedAt": "2023-07-13T15:23:23.003Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        269
+                    ],
+                    [
+                        181,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804552,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.003Z",
+            "updatedAt": "2023-07-13T15:23:23.003Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        432,
+                        406
+                    ],
+                    [
+                        511,
+                        482
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804551,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.003Z",
+            "updatedAt": "2023-07-13T15:23:23.003Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        263
+                    ],
+                    [
+                        358,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804550,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.003Z",
+            "updatedAt": "2023-07-13T15:23:23.003Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        232
+                    ],
+                    [
+                        308,
+                        269
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804549,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.003Z",
+            "updatedAt": "2023-07-13T15:23:23.003Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        224
+                    ],
+                    [
+                        358,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804548,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.003Z",
+            "updatedAt": "2023-07-13T15:23:23.003Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        366,
+                        252
+                    ],
+                    [
+                        396,
+                        279
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804547,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.003Z",
+            "updatedAt": "2023-07-13T15:23:23.003Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        35,
+                        187
+                    ],
+                    [
+                        74,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804546,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.003Z",
+            "updatedAt": "2023-07-13T15:23:23.003Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        75,
+                        75
+                    ],
+                    [
+                        110,
+                        104
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804545,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.003Z",
+            "updatedAt": "2023-07-13T15:23:23.003Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        296,
+                        76
+                    ],
+                    [
+                        331,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804544,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.003Z",
+            "updatedAt": "2023-07-13T15:23:23.003Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        36
+                    ],
+                    [
+                        440,
+                        118
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804543,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.003Z",
+            "updatedAt": "2023-07-13T15:23:23.003Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        361,
+                        143
+                    ],
+                    [
+                        434,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804542,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:23:23.003Z",
+            "updatedAt": "2023-07-13T15:23:23.003Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        426,
+                        193
+                    ],
+                    [
+                        506,
+                        236
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

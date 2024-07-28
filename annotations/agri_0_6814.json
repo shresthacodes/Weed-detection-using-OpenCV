@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 14805532,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:41:49.203Z",
+            "updatedAt": "2023-07-13T15:41:49.203Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        109,
+                        185
+                    ],
+                    [
+                        417,
+                        465
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14805531,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:41:49.203Z",
+            "updatedAt": "2023-07-13T15:41:49.203Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        46,
+                        60
+                    ],
+                    [
+                        327,
+                        258
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

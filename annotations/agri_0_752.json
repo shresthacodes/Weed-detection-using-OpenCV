@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 14805678,
+            "classId": 21387,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:44:45.347Z",
+            "updatedAt": "2023-07-13T15:44:45.347Z",
+            "tags": [],
+            "classTitle": "weed",
+            "points": {
+                "exterior": [
+                    [
+                        81,
+                        98
+                    ],
+                    [
+                        390,
+                        365
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

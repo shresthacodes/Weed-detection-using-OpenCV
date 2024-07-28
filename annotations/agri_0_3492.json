@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 14804739,
+            "classId": 21387,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:26:23.664Z",
+            "updatedAt": "2023-07-13T15:26:23.664Z",
+            "tags": [],
+            "classTitle": "weed",
+            "points": {
+                "exterior": [
+                    [
+                        84,
+                        84
+                    ],
+                    [
+                        451,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 14804738,
+            "classId": 21387,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:26:23.664Z",
+            "updatedAt": "2023-07-13T15:26:23.664Z",
+            "tags": [],
+            "classTitle": "weed",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        369
+                    ],
+                    [
+                        180,
+                        511
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

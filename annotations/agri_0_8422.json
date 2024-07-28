@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 14805897,
+            "classId": 21385,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vo@datasetninja.com",
+            "createdAt": "2023-07-13T15:48:52.295Z",
+            "updatedAt": "2023-07-13T15:48:52.295Z",
+            "tags": [],
+            "classTitle": "crop",
+            "points": {
+                "exterior": [
+                    [
+                        50,
+                        146
+                    ],
+                    [
+                        511,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
