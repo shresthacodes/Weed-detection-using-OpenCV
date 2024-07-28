@@ -3,7 +3,7 @@ import os
 import json
 
 from sympy import python
-from opencv-python import cv2
+import cv2
 import numpy as np
 from sklearn.neighbors import KNeighborsClassifier
 
