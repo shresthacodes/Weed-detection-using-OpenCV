@@ -1,7 +1,9 @@
 import streamlit as st
 import os
 import json
-import cv2
+
+from sympy import python
+from opencv-python import cv2
 import numpy as np
 from sklearn.neighbors import KNeighborsClassifier
 
