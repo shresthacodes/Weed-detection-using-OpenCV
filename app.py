@@ -2,14 +2,11 @@ import streamlit as st
 import os
 import json
 
-from sympy import python
 import cv2
 import numpy as np
 from sklearn.neighbors import KNeighborsClassifier
 
 # Load the annotations
-
-
 def load_annotations(annotations_folder):
     annotations = {}
     for filename in os.listdir(annotations_folder):
@@ -23,8 +20,6 @@ def load_annotations(annotations_folder):
     return annotations
 
 # Parse a single annotation file
-
-
 def parse_annotation(annotation):
     objects = annotation.get('objects', [])
     boxes = []
@@ -46,8 +41,6 @@ def parse_annotation(annotation):
     return boxes, labels
 
 # Extract histogram features from an image region
-
-
 def extract_histogram(image, mask=None):
     hist = cv2.calcHist([image], [0, 1, 2], mask, [
                         8, 8, 8], [0, 256, 0, 256, 0, 256])
@@ -55,8 +48,6 @@ def extract_histogram(image, mask=None):
     return hist.flatten()
 
 # Prepare features for training or testing
-
-
 def prepare_features(images, boxes_list):
     features = []
     for img, boxes in zip(images, boxes_list):
@@ -71,8 +62,6 @@ def prepare_features(images, boxes_list):
     return features
 
 # Prepare the dataset by loading images and annotations
-
-
 def prepare_dataset(images_folder, annotations_folder):
     images = []
     boxes_list = []
@@ -101,8 +90,6 @@ def prepare_dataset(images_folder, annotations_folder):
     return images, boxes_list, labels_list
 
 # Visualize detections on an image
-
-
 def visualize_detections(image, detections):
     for box, label in detections:
         xmin, ymin, xmax, ymax = box
@@ -114,8 +101,6 @@ def visualize_detections(image, detections):
     return image
 
 # Detect objects in an image
-
-
 def detect_objects(image, boxes, model):
     results = []
     for box in boxes:
@@ -127,11 +112,9 @@ def detect_objects(image, boxes, model):
         results.append((box, label[0]))
     return results
 
-
 # Paths to the images and annotations folders
 annotations_folder = 'annotations'
 images_folder = 'images'
-
 # Load the dataset
 images, boxes_list, labels_list = prepare_dataset(
     images_folder, annotations_folder)
